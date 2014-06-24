@@ -699,7 +699,7 @@ CREO 目前在同步進行自動組立的時候，這功能建立在雲端網站
 
 ![CMS_stl_自動組立man3](./../images/2ag10/161.jpg)
 
-![CMS_stl_自動組立man3](./../images/2ag10/162.jpg)
+![CMS_stl_自動組立man3](./../images/2ag10/1623.png)
 　
 
 五.在雲端建立 Dokuwiki 網站
